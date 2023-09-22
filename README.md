@@ -9,4 +9,5 @@ Prerequisites
 
 -   Register an account on [GitHub](https://github.com/).
 
+
 -   Download [GitHub Desktop](https://desktop.github.com/).
